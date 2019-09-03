@@ -1,5 +1,13 @@
 12345670818181818181818
 asdsadsa
 asas
+<<<<<<< HEAD
 
 bangsat lu bang sialan kok susah
+=======
+asdaasdas
+sadasd
+sadasdasdasd
+asdsadsad
+sa
+>>>>>>> 2d387dfe061a1d164ef92442eec1b2d7f9e2776a
